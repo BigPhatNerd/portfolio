@@ -37,7 +37,7 @@ const About = () =>{
                     
                     <h2>I'm a{' '}
                     <Typical
-steps={["", 2000,"developer.", 2000, "husband.", 2000, "father.", 2000,  "MERN stack enthusiast.", 2000, "full-stack developer.", 2500, "passionate programmer.", 2000]}
+steps={["", 2000,"full-stack developer.", 2000, "husband.", 2000, "father.", 2000,  "MERN stack enthusiast.", 2000,  "passionate programmer.", 2000]}
 loop="1"
 wrapper="b"
 />  
